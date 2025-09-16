@@ -1,0 +1,80 @@
+{
+  "C:\\Users\\user\\Downloads\\New folder (22)\\happ\\src\\Badge.jsx": {
+    "path": "C:\\Users\\user\\Downloads\\New folder (22)\\happ\\src\\Badge.jsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 2, "column": 4 },
+        "end": { "line": 2, "column": 67 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Badge",
+        "decl": {
+          "start": { "line": 1, "column": 24 },
+          "end": { "line": 1, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 1, "column": 43 },
+          "end": { "line": 3, "column": 1 }
+        },
+        "line": 1
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1 },
+    "f": { "0": 1 },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "7754c7ca32e6735e806af7a3576e98620df0fc0f"
+  },
+  "C:\\Users\\user\\Downloads\\New folder (22)\\happ\\src\\Counter.jsx": {
+    "path": "C:\\Users\\user\\Downloads\\New folder (22)\\happ\\src\\Counter.jsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 4, "column": 22 },
+        "end": { "line": 4, "column": 33 }
+      },
+      "1": {
+        "start": { "line": 5, "column": 4 },
+        "end": { "line": 10, "column": 6 }
+      },
+      "2": {
+        "start": { "line": 8, "column": 31 },
+        "end": { "line": 8, "column": 42 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "Counter",
+        "decl": {
+          "start": { "line": 3, "column": 24 },
+          "end": { "line": 3, "column": 31 }
+        },
+        "loc": {
+          "start": { "line": 3, "column": 33 },
+          "end": { "line": 11, "column": 1 }
+        },
+        "line": 3
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 8, "column": 25 },
+          "end": { "line": 8, "column": 26 }
+        },
+        "loc": {
+          "start": { "line": 8, "column": 31 },
+          "end": { "line": 8, "column": 42 }
+        },
+        "line": 8
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 2, "1": 2, "2": 1 },
+    "f": { "0": 2, "1": 1 },
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "d3d12b9410c63b076770735ffc533a53542faad3"
+  }
+}
